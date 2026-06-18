@@ -310,7 +310,7 @@ MScFE_600_Financial_Data_GWP/
 
 ---
 
-# 📈 Visualizations
+#  Visualizations
 
 Generated visualizations include:
 
@@ -322,7 +322,7 @@ Generated visualizations include:
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 ## Data Expansion
 
