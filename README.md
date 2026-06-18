@@ -275,11 +275,14 @@ USER_AGENT = "your-app-name-v1"
 
 ##  Project Structure
 
-
+```text
 MScFE_600_Financial_Data_GWP/
 ├── MScFE_600_Financial_Data_GWP_2.ipynb
 ├── README.md
 └── requirements.txt
+```
+
+---
 
 
 ## Key Takeaways & Applications
